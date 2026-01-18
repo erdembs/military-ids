@@ -16,4 +16,12 @@ and attack patterns using live network traffic.
 
 ## 📁 Project Structure
 
+military-ids/
+├── src/
+│   └── packet_sniffer.py   # Core IDS logic (packet capture & detection)
+├── tests/                  # Test cases (to be extended)
+├── docs/                   # Architecture & documentation
+├── README.md               # Project overview
+├── requirements.txt        # Python dependencies
+├── .gitignore              # Git ignore rules
 
